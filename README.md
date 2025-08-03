@@ -45,7 +45,7 @@ beecrowd/
 ### 📌 Nome do arquivo
 
 Sempre uso o **número do problema como nome do arquivo**, com a extensão da linguagem utilizada.
-- **Exemplo em Java**: <1001.java> 
+- **Exemplo em Java**: <exercicio1001.java> 
 
 ### 📌 Estrutura do Conteúdo
 
