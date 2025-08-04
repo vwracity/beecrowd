@@ -37,7 +37,7 @@ beecrowd/
 ├── 7-grafos/                   # DFS, BFS, fluxo máximo, árvores geradoras, etc.
 ├── 8-geometria-computacional/  # Pontos, linhas, polígonos
 ├── 9-sql/                      # Problemas com consultas SQL
-├── desafios-pessoais/          # Problemas difíceis, aleatórios ou de desafio pessoal
+├── 10-erros/          # Problemas ou com soluções erradas ou parcialmente certos.
 └── README.md
 ```
 
